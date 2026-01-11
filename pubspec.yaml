@@ -1,6 +1,6 @@
 name: msal4flutter
 description: "Unofficial Flutter package for The Microsoft Authentication Library (MSAL)."
-version: 0.0.2
+version: 0.1.0
 homepage: https://github.com/arcticfox1919/msal4flutter
 
 environment:
@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  gio: ^0.2.0
+  gio: ^0.2.1
   url_launcher: ^6.3.1
 
 dev_dependencies:
